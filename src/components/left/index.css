@@ -1,0 +1,56 @@
+.o{
+top: 78px;
+left: 166px;
+width: 39px;
+height: 39px;
+padding-left: 100px;
+
+font-size: xx-large;
+
+}
+.text{
+    font-size: small;
+    margin-left: 60px;
+    margin-top: -100px;
+}
+.we{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: small;
+   
+    top: 230px;
+    left: 181px;
+    width: 248px;
+    height: 85px;
+    
+    text-align: center;
+    font: normal normal 200 44px/60px Avenir;
+    letter-spacing: 19.2px;
+    color: #D2A1A2;
+    opacity: 1;
+}
+.sample{
+top: 485px;
+left: 171px;
+width: 475px;
+height: 70px;
+margin-left: 100px;
+margin-top: 200px;
+text-align: left;
+font: normal normal 600 13px/26px Open Sans;
+letter-spacing: 0px;
+color: #9A6B69;
+opacity: 1;
+}
+.input-text{
+    top: 650px;
+left: 171px;
+width: 256px;
+height: 37px;
+margin-left: 100px;
+margin-top: 20px;
+
+border: 1px solid #9A6B69;
+border-radius: 29px;
+opacity: 1;
+}
